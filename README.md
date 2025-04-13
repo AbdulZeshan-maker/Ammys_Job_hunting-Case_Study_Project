@@ -1,6 +1,7 @@
 # Project name: Ammy's Job Hunting-Case Study
 
-## Project Overview: Ammy is a Human Resource professional in her company. Some data was shared with her relating to different aspects of the employed human resources in the company. It’s her take to analyze that data, make different comparisons and visualize different charts, to better understand and interpret this data. Ammy requests your assistance in analyzing the data using the excel sheet and inferring key points about the people working in her company.
+## Project Overview:  
+Ammy is a Human Resource professional in her company. Some data was shared with her relating to different aspects of the employed human resources in the company. It’s her take to analyze that data, make different comparisons and visualize different charts, to better understand and interpret this data. Ammy requests your assistance in analyzing the data using the excel sheet and inferring key points about the people working in her company.
 
 **Problem Statement:** Ammy wants you to use the data to figure out a few things about the company, especially if the company’s attitude towards its employees is positive or not based on their salaries, date of joining, bonuses, etc. Ammy asks you to help her analyze 3 important features of the company:
         Average salaries of employees
