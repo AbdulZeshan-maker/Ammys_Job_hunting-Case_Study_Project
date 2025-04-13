@@ -1,17 +1,17 @@
-**Project name: Ammy's Job Hunting-Case Study**
+# Project name: Ammy's Job Hunting-Case Study
 
-# Project Overview: Ammy is a Human Resource professional in her company. Some data was shared with her relating to different aspects of the employed human resources in the company. It’s her take to analyze that data, make different comparisons and visualize different charts, to better understand and interpret this data. Ammy requests your assistance in analyzing the data using the excel sheet and inferring key points about the people working in her company.
+## Project Overview: Ammy is a Human Resource professional in her company. Some data was shared with her relating to different aspects of the employed human resources in the company. It’s her take to analyze that data, make different comparisons and visualize different charts, to better understand and interpret this data. Ammy requests your assistance in analyzing the data using the excel sheet and inferring key points about the people working in her company.
 
-Problem Statement: Ammy wants you to use the data to figure out a few things about the company, especially if the company’s attitude towards its employees is positive or not based on their salaries, date of joining, bonuses, etc. Ammy asks you to help her analyze 3 important features of the company:
+**Problem Statement:** Ammy wants you to use the data to figure out a few things about the company, especially if the company’s attitude towards its employees is positive or not based on their salaries, date of joining, bonuses, etc. Ammy asks you to help her analyze 3 important features of the company:
         Average salaries of employees
         Bonuses given to employees
         Which department is the best to work in?
  
-Example Datasets
+**Example Datasets**
 Columns 1-5: The first two columns indicate the employee IDs and their Full names which Ammy doesn’t really care about. Ammy is more interested in their Job Title, Department and Business Unit.
 Columns 6-14: It contains multiple columns of interests such as Gender, Ethnicity, Age, Hire Date, Annual Salary, Bonus%, Country, City, and Exit Date.
 
-Case Study Questions
+## Case Study Questions
 Each of the following case study questions can be answered using Excel:
 1. Display the graph of Annual salary vs Department.
 2. Display the graph of Annual salary vs Job title.
@@ -51,7 +51,7 @@ Each of the following case study questions can be answered using Excel:
 22. Create a column by combining Full name and Job title.
 23. Create a column for Network days by utilizing hire and Exit dates.
 
-# Key Insights in short:
+## Key Insights in short:
 1) IT Coordinator in this company gets the least salary. Also the sum of annual salary of all IT Cordinator is second from the last.
 2) Corporate business unit employees get the highest average bonus percent whereas manufacturing business unit employees get the least average bonus     percent.
 3) Marketing department gets the highest average bonus whereas IT department gets the least average bonus.
@@ -61,7 +61,7 @@ Each of the following case study questions can be answered using Excel:
 7) Company needs to include black people ethnicities in seminars and fest so as to make them interact with other employees, considering their count    is less compared to others. This step is necessary to make them feel good and friendly
 Note: For more insights and solution of questions given above look at the Key_Findings.md file present inside the Analysis & Solution folder.
 
-# Folder Structure:
+## Folder Structure:
 1) Ammy's Job Hunting-Case Study Project Folder: All folder and files are present inside this folder named as Ammy's Job Hunting-Case Study Project.
 2) Analysis & Solution Folder: This folder contains Data_Cleaning.md file and Key_Findings.md file. Data_Cleaning.md file contains information about    how the data was cleaned and what was the issue, whereas Key_Findings.md file contains solution to all the questions asked above
 3) Charts Folder: This folder contains all the visualizations.
